@@ -6,4 +6,4 @@ các kiểu con trỏ đặc trưng
     con trỏ Void
     con trỏ rác(wild)
     con trỏ treo(cấp phát động)
-    
+    kjvkl
