@@ -1,0 +1,9 @@
+cách khai báo con trỏ
+các toán tử của con trỏ:*, &.
+kích thước của con trỏ: 32 bit- 4 byte; 64bit- 8 byte.
+các kiểu con trỏ đặc trưng
+    con trỏ NULL
+    con trỏ Void
+    con trỏ rác(wild)
+    con trỏ treo(cấp phát động)
+    

@@ -3,7 +3,10 @@
 
 int main()
 {
-    printf("Hello World");
-
+    void *ptr =NULL;
+    int a = 11;
+    ptr = &a;
+    printf("kich thuoc cua con tro: %d\n", sizeof(ptr));
+    printf("dia chi con tro : %p", *((int*)ptr));
     return 0;
 }
