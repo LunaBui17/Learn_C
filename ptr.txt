@@ -1,9 +1,19 @@
-cách khai báo con trỏ
+cách khai báo con trỏ:
+    int *ptr = 
 các toán tử của con trỏ:*, &.
 kích thước của con trỏ: 32 bit- 4 byte; 64bit- 8 byte.
 các kiểu con trỏ đặc trưng
-    con trỏ NULL
-    con trỏ Void
-    con trỏ rác(wild)
-    con trỏ treo(cấp phát động)
-    kjvkl
+    con trỏ NULL: không trỏ đến đâu cả
+    con trỏ Void: con trỏ không có kiểu giá trị
+    con trỏ rác(wild): là con trỏ khai báo không có giá trị ban đầu, không nên dùng con trỏ này
+    con trỏ treo(cấp phát động): malloc, khởi tạo giá trị con trỏ, cấp phát động và không giải phóng bộ nhớ
+
+kiểu dữ liệu:
+    các kiểu dữ liệu
+    kích thước:
+    khoảng giá trị:
+mảng:
+    khai báo mảng
+    duyệt mảng
+    tìm phần tử trong mảng
+    
