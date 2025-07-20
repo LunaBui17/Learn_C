@@ -1,7 +1,7 @@
 cách khai báo con trỏ:
     int *ptr = 
 các toán tử của con trỏ:*, &.
-kích thước của con trỏ: 32 bit- 4 byte; 64bit- 8 byte.
+kích thước của con trỏ: 32 bit- 4 byte; 64 bit- 8 byte.
 các kiểu con trỏ đặc trưng
     con trỏ NULL: không trỏ đến đâu cả
     con trỏ Void: con trỏ không có kiểu giá trị
@@ -9,11 +9,14 @@ các kiểu con trỏ đặc trưng
     con trỏ treo(cấp phát động): malloc, khởi tạo giá trị con trỏ, cấp phát động và không giải phóng bộ nhớ
 
 kiểu dữ liệu:
-    các kiểu dữ liệu
-    kích thước:
-    khoảng giá trị:
+    các kiểu dữ liệu:   int,        char,           float,          double
+    kích thước:         4 byte      1 byte          4 byte          8 byte
+    khoảng giá trị:     2^9
 mảng:
-    khai báo mảng
-    duyệt mảng
+    khai báo mảng: kiểu dữ liệu -> tên mảng[kích thước của mảng]
+         mang đa chiều: kiểu dữ liệu -> tên mảng[kích thước 1][kích thước 2].v.v
+    khởi tạo:
+    Duyệt mảng:for(int i=0; i<n; i++){}
+    mảng 2 chiều:
     tìm phần tử trong mảng
     
